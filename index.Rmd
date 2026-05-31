@@ -1,5 +1,5 @@
 ---
-title: "network"
+title: "Xingguang Li"
 image: "flight_network.jpg"
 links:
   - label: Resume
