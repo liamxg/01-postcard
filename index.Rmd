@@ -1,6 +1,6 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "network"
+image: "flight_network.jpg"
 links:
   - label: Resume
     url: "https://linkedin.com/"
@@ -9,18 +9,14 @@ links:
   - label: SoundCloud
     url: "https://soundcloud.com/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/lixingguang"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+Research on viral evolution, phylogeography, and genomic epidemiology integrating BEAST-based inference, transmission dynamics, and spatial diffusion.
 
 ## Education
 
